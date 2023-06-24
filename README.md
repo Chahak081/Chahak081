@@ -2,6 +2,7 @@
 <h3 align="center">Web and cloud enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/chahak-sengar-667726226/"></a>
 <p align="left">
 </p>
 
